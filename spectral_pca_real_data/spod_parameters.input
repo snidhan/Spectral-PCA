@@ -1,0 +1,12 @@
+333                                                                                                   !Number of points in radial direction
+256                                                                                                   !Number of points in theta direction
+1                                                                                                     !Number of points in the axial direction
+1                                                                                                     !Number of variables
+0.0905                                                                                                !dt - delta t of snapshots
+7168                                                                                                  !Number of snapshots
+2329600                                                                                               !Start of snapshots
+100                                                                                                   !Stride
+512                                                                                                   !Nfreq
+20                                                                                                    !Nblk_sampled
+50                                                                                                    !Nfreq_sampled
+256                                                                                                   !Novlp

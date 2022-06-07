@@ -1,0 +1,67 @@
+ filename = 
+ /home/sheel/Work/spod_re5e4/frinf/data_files_uniform/x_D_65/up/up_01892600_65_u
+ niform_pchip.res                                                               
+   
+ Minval of var_trunc  -7.368128353768455E-002
+ Maxval of var_trunc   0.101385161384760     
+ Minval of real transformed_var (7.082984129593231E-003,0.000000000000000E+000)
+ Maxval of real transformed_var (1.299424821378265E-002,1.186906777597584E-002)
+ Minval of imag transformed_var
+ (-4.051762575974560E-003,-3.234506538058197E-004)
+ Maxval of imag transformed_var (4.734909929251092E-003,-1.965351782685167E-004)
+ Maxval of imag transformed_var
+ (-1.037875627249159E-003,-2.251600473416166E-004)
+ for mode            1
+ -4.077904428445487E-005
+  1.325721761607098E-002
+  0.000000000000000E+000
+  0.000000000000000E+000
+ for mode            2
+ -1.004754910258610E-003
+  1.708872559100477E-002
+  3.719901738625349E-006
+  1.186906777597584E-002
+ filename = 
+ /home/sheel/Work/spod_re5e4/frinf/data_files_uniform/x_D_65/vp/vp_01892600_65_u
+ niform_pchip.res                                                               
+   
+ Minval of var_trunc  -8.039761174144215E-002
+ Maxval of var_trunc   7.235893271320903E-002
+ Minval of real transformed_var (-8.766252484837306E-004,0.000000000000000E+000)
+ Maxval of real transformed_var (-7.840275078643565E-003,1.416737134543166E-002)
+ Minval of imag transformed_var
+ (-1.510287860954052E-003,-6.872688994193760E-005)
+ Maxval of imag transformed_var (-3.067692532851959E-003,4.942694708365321E-003)
+ Maxval of imag transformed_var
+ (-9.697982283112402E-004,-2.851878165064863E-004)
+ for mode            1
+ -2.265472926982280E-002
+  6.790436021505183E-003
+  0.000000000000000E+000
+  0.000000000000000E+000
+ for mode            2
+ -1.231370040490231E-002
+  2.599824280679948E-003
+ -4.250223547977214E-003
+  1.723612901301862E-002
+ filename = 
+ /home/sheel/Work/spod_re5e4/frinf/data_files_uniform/x_D_65/wp/wp_01892600_65_u
+ niform_pchip.res                                                               
+   
+ Minval of var_trunc   0.878572939728989     
+ Maxval of var_trunc    1.06125917516026     
+ Minval of real transformed_var (0.982967275205043,0.000000000000000E+000)
+ Maxval of real transformed_var (-5.229156440696463E-003,6.791497853996425E-003)
+ Minval of imag transformed_var (5.986190698316411E-003,-4.119947028241564E-003)
+ Maxval of imag transformed_var (6.778024700056296E-003,6.809647067549213E-003)
+ Maxval of imag transformed_var (-5.417680680262959E-003,1.241368797175687E-003)
+ for mode            1
+  0.968275780795020     
+   1.00061202396865     
+  0.000000000000000E+000
+  0.000000000000000E+000
+ for mode            2
+ -1.251050246848152E-002
+  7.049160632719299E-003
+ -1.183237914324268E-002
+  1.417387594136902E-002

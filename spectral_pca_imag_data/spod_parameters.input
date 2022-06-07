@@ -1,0 +1,12 @@
+354                                                                                                   !Number of points in radial direction
+1                                                                                                     !Number of points in theta direction
+1                                                                                                     !Number of points in the axial direction
+3                                                                                                     !Number of variables
+0.07                                                                                                  !dt - delta t of snapshots
+0                                                                                                     !Start of the azimuthal mode number 
+11                                                                                                    !End of the azimuthal mode number
+7200                                                                                                  !Number of snapshots
+1892600                                                                                               !Start of snapshots
+100                                                                                                   !Stride
+512                                                                                                   !Nfreq
+256                                                                                                   !Novlp

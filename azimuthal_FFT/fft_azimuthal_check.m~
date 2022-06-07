@@ -1,0 +1,20 @@
+%% FFT of velocity data
+% clear; clc;
+% A = importdata('u_1892600_15.txt');
+% B = A(2:257,1) - mean(A(2:257,1));
+% plot(B);
+% 
+% Fs = 1/(2*pi/256);
+% 
+% Y = fft(B);
+% Y2 = abs(Y(1:128+1)/256);
+% 
+% f = Fs*(0:128)/256;
+% 
+% plot(f,Y2);
+
+%% FFT of synthetic data
+clear all;
+theta = linspace(0,2*pi,256)';
+
+signal = 5*sin(1.*theta) + 8 + 10*sin(15

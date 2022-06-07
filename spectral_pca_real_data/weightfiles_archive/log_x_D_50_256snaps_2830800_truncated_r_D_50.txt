@@ -1,0 +1,1833 @@
+         187
+         256
+           1
+           4
+  9.050000000000000E-002
+         256
+     2830800
+         100
+           4
+          50
+         256
+           0
+ Reading the file      2830800
+ Reading the file      2830900
+ Reading the file      2831000
+ Reading the file      2831100
+ Reading the file      2831200
+ Reading the file      2831300
+ Reading the file      2831400
+ Reading the file      2831500
+ Reading the file      2831600
+ Reading the file      2831700
+ Reading the file      2831800
+ Reading the file      2831900
+ Reading the file      2832000
+ Reading the file      2832100
+ Reading the file      2832200
+ Reading the file      2832300
+ Reading the file      2832400
+ Reading the file      2832500
+ Reading the file      2832600
+ Reading the file      2832700
+ Reading the file      2832800
+ Reading the file      2832900
+ Reading the file      2833000
+ Reading the file      2833100
+ Reading the file      2833200
+ Reading the file      2833300
+ Reading the file      2833400
+ Reading the file      2833500
+ Reading the file      2833600
+ Reading the file      2833700
+ Reading the file      2833800
+ Reading the file      2833900
+ Reading the file      2834000
+ Reading the file      2834100
+ Reading the file      2834200
+ Reading the file      2834300
+ Reading the file      2834400
+ Reading the file      2834500
+ Reading the file      2834600
+ Reading the file      2834700
+ Reading the file      2834800
+ Reading the file      2834900
+ Reading the file      2835000
+ Reading the file      2835100
+ Reading the file      2835200
+ Reading the file      2835300
+ Reading the file      2835400
+ Reading the file      2835500
+ Reading the file      2835600
+ Reading the file      2835700
+ Reading the file      2835800
+ Reading the file      2835900
+ Reading the file      2836000
+ Reading the file      2836100
+ Reading the file      2836200
+ Reading the file      2836300
+ Reading the file      2836400
+ Reading the file      2836500
+ Reading the file      2836600
+ Reading the file      2836700
+ Reading the file      2836800
+ Reading the file      2836900
+ Reading the file      2837000
+ Reading the file      2837100
+ Reading the file      2837200
+ Reading the file      2837300
+ Reading the file      2837400
+ Reading the file      2837500
+ Reading the file      2837600
+ Reading the file      2837700
+ Reading the file      2837800
+ Reading the file      2837900
+ Reading the file      2838000
+ Reading the file      2838100
+ Reading the file      2838200
+ Reading the file      2838300
+ Reading the file      2838400
+ Reading the file      2838500
+ Reading the file      2838600
+ Reading the file      2838700
+ Reading the file      2838800
+ Reading the file      2838900
+ Reading the file      2839000
+ Reading the file      2839100
+ Reading the file      2839200
+ Reading the file      2839300
+ Reading the file      2839400
+ Reading the file      2839500
+ Reading the file      2839600
+ Reading the file      2839700
+ Reading the file      2839800
+ Reading the file      2839900
+ Reading the file      2840000
+ Reading the file      2840100
+ Reading the file      2840200
+ Reading the file      2840300
+ Reading the file      2840400
+ Reading the file      2840500
+ Reading the file      2840600
+ Reading the file      2840700
+ Reading the file      2840800
+ Reading the file      2840900
+ Reading the file      2841000
+ Reading the file      2841100
+ Reading the file      2841200
+ Reading the file      2841300
+ Reading the file      2841400
+ Reading the file      2841500
+ Reading the file      2841600
+ Reading the file      2841700
+ Reading the file      2841800
+ Reading the file      2841900
+ Reading the file      2842000
+ Reading the file      2842100
+ Reading the file      2842200
+ Reading the file      2842300
+ Reading the file      2842400
+ Reading the file      2842500
+ Reading the file      2842600
+ Reading the file      2842700
+ Reading the file      2842800
+ Reading the file      2842900
+ Reading the file      2843000
+ Reading the file      2843100
+ Reading the file      2843200
+ Reading the file      2843300
+ Reading the file      2843400
+ Reading the file      2843500
+ Reading the file      2843600
+ Reading the file      2843700
+ Reading the file      2843800
+ Reading the file      2843900
+ Reading the file      2844000
+ Reading the file      2844100
+ Reading the file      2844200
+ Reading the file      2844300
+ Reading the file      2844400
+ Reading the file      2844500
+ Reading the file      2844600
+ Reading the file      2844700
+ Reading the file      2844800
+ Reading the file      2844900
+ Reading the file      2845000
+ Reading the file      2845100
+ Reading the file      2845200
+ Reading the file      2845300
+ Reading the file      2845400
+ Reading the file      2845500
+ Reading the file      2845600
+ Reading the file      2845700
+ Reading the file      2845800
+ Reading the file      2845900
+ Reading the file      2846000
+ Reading the file      2846100
+ Reading the file      2846200
+ Reading the file      2846300
+ Reading the file      2846400
+ Reading the file      2846500
+ Reading the file      2846600
+ Reading the file      2846700
+ Reading the file      2846800
+ Reading the file      2846900
+ Reading the file      2847000
+ Reading the file      2847100
+ Reading the file      2847200
+ Reading the file      2847300
+ Reading the file      2847400
+ Reading the file      2847500
+ Reading the file      2847600
+ Reading the file      2847700
+ Reading the file      2847800
+ Reading the file      2847900
+ Reading the file      2848000
+ Reading the file      2848100
+ Reading the file      2848200
+ Reading the file      2848300
+ Reading the file      2848400
+ Reading the file      2848500
+ Reading the file      2848600
+ Reading the file      2848700
+ Reading the file      2848800
+ Reading the file      2848900
+ Reading the file      2849000
+ Reading the file      2849100
+ Reading the file      2849200
+ Reading the file      2849300
+ Reading the file      2849400
+ Reading the file      2849500
+ Reading the file      2849600
+ Reading the file      2849700
+ Reading the file      2849800
+ Reading the file      2849900
+ Reading the file      2850000
+ Reading the file      2850100
+ Reading the file      2850200
+ Reading the file      2850300
+ Reading the file      2850400
+ Reading the file      2850500
+ Reading the file      2850600
+ Reading the file      2850700
+ Reading the file      2850800
+ Reading the file      2850900
+ Reading the file      2851000
+ Reading the file      2851100
+ Reading the file      2851200
+ Reading the file      2851300
+ Reading the file      2851400
+ Reading the file      2851500
+ Reading the file      2851600
+ Reading the file      2851700
+ Reading the file      2851800
+ Reading the file      2851900
+ Reading the file      2852000
+ Reading the file      2852100
+ Reading the file      2852200
+ Reading the file      2852300
+ Reading the file      2852400
+ Reading the file      2852500
+ Reading the file      2852600
+ Reading the file      2852700
+ Reading the file      2852800
+ Reading the file      2852900
+ Reading the file      2853000
+ Reading the file      2853100
+ Reading the file      2853200
+ Reading the file      2853300
+ Reading the file      2853400
+ Reading the file      2853500
+ Reading the file      2853600
+ Reading the file      2853700
+ Reading the file      2853800
+ Reading the file      2853900
+ Reading the file      2854000
+ Reading the file      2854100
+ Reading the file      2854200
+ Reading the file      2854300
+ Reading the file      2854400
+ Reading the file      2854500
+ Reading the file      2854600
+ Reading the file      2854700
+ Reading the file      2854800
+ Reading the file      2854900
+ Reading the file      2855000
+ Reading the file      2855100
+ Reading the file      2855200
+ Reading the file      2855300
+ Reading the file      2855400
+ Reading the file      2855500
+ Reading the file      2855600
+ Reading the file      2855700
+ Reading the file      2855800
+ Reading the file      2855900
+ Reading the file      2856000
+ Reading the file      2856100
+ Reading the file      2856200
+ Reading the file      2856300
+ Shape of Q       191488         256
+ minval of real part of Q   -76.5582488156501     
+ maxval of real part of Q    1.08925003875700     
+ Rowwise mean subtracted
+ minval of real part of  Q_sub  -0.215120801342119     
+ maxval of real part of  Q_sub   0.179713149396351     
+ Number of blocks            1
+ 2. Allocating the most memory consuming array Qblk
+ Constructed the hamming window
+ Minval of window  8.000001311302185E-002
+ Maxval of window  0.999965120947995     
+ Windowed Qblk
+ minval of real Qblk  -1.010918095649102E-003
+ maxval of real Qblk   1.010893950451400E-003
+ 1. Allocating the most memory consuming array Qout
+ In Nblk            1
+ minval of imag Q_k  -2.099721225505955E-002
+ maxval of imag Q_k   2.099721225505955E-002
+ minval of real Q_k  -2.231697035818762E-002
+ maxval of real Q_k   2.138636512398649E-002
+ minval of imaginary S  -2.217286023753392E-019
+ maxval of imaginary S   2.711316364484143E-019
+ minval of real S   4.279465809903374E-007
+ maxval of real S   0.257830431859006     
+ In Nfreq            1
+ minval of imaginary S_Nfreq   0.000000000000000E+000
+ maxval of imaginary S_Nfreq   0.000000000000000E+000
+ minval of real S_Nfreq   1.241738517869842E-002
+ maxval of real S_Nfreq   1.241738517869842E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            2
+ minval of imaginary S_Nfreq   9.714975952088756E-021
+ maxval of imaginary S_Nfreq   9.714975952088756E-021
+ minval of real S_Nfreq   2.496186301435110E-002
+ maxval of real S_Nfreq   2.496186301435110E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            3
+ minval of imaginary S_Nfreq   6.630953237325500E-020
+ maxval of imaginary S_Nfreq   6.630953237325500E-020
+ minval of real S_Nfreq   6.916807626887463E-002
+ maxval of real S_Nfreq   6.916807626887463E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            4
+ minval of imaginary S_Nfreq  -2.217286023753392E-019
+ maxval of imaginary S_Nfreq  -2.217286023753392E-019
+ minval of real S_Nfreq   0.257830431859006     
+ maxval of real S_Nfreq   0.257830431859006     
+ Shape of S_Nfreq            1           1
+ In Nfreq            5
+ minval of imaginary S_Nfreq   4.228702531615519E-020
+ maxval of imaginary S_Nfreq   4.228702531615519E-020
+ minval of real S_Nfreq   0.176838803182796     
+ maxval of real S_Nfreq   0.176838803182796     
+ Shape of S_Nfreq            1           1
+ In Nfreq            6
+ minval of imaginary S_Nfreq  -3.572223649325628E-020
+ maxval of imaginary S_Nfreq  -3.572223649325628E-020
+ minval of real S_Nfreq   3.559340238838146E-002
+ maxval of real S_Nfreq   3.559340238838146E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            7
+ minval of imaginary S_Nfreq  -3.468390795098306E-021
+ maxval of imaginary S_Nfreq  -3.468390795098306E-021
+ minval of real S_Nfreq   3.178132518177284E-002
+ maxval of real S_Nfreq   3.178132518177284E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            8
+ minval of imaginary S_Nfreq   1.271125854145415E-020
+ maxval of imaginary S_Nfreq   1.271125854145415E-020
+ minval of real S_Nfreq   2.470992969695389E-002
+ maxval of real S_Nfreq   2.470992969695389E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq            9
+ minval of imaginary S_Nfreq   5.119194869109791E-022
+ maxval of imaginary S_Nfreq   5.119194869109791E-022
+ minval of real S_Nfreq   2.458295806467150E-002
+ maxval of real S_Nfreq   2.458295806467150E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq           10
+ minval of imaginary S_Nfreq   1.597835182358573E-021
+ maxval of imaginary S_Nfreq   1.597835182358573E-021
+ minval of real S_Nfreq   2.262302307456237E-002
+ maxval of real S_Nfreq   2.262302307456237E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq           11
+ minval of imaginary S_Nfreq   1.313698748414144E-020
+ maxval of imaginary S_Nfreq   1.313698748414144E-020
+ minval of real S_Nfreq   1.362573769648721E-002
+ maxval of real S_Nfreq   1.362573769648721E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq           12
+ minval of imaginary S_Nfreq  -2.062918445082919E-022
+ maxval of imaginary S_Nfreq  -2.062918445082919E-022
+ minval of real S_Nfreq   1.399866956537661E-002
+ maxval of real S_Nfreq   1.399866956537661E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq           13
+ minval of imaginary S_Nfreq  -7.756339980237729E-021
+ maxval of imaginary S_Nfreq  -7.756339980237729E-021
+ minval of real S_Nfreq   1.434018348150479E-002
+ maxval of real S_Nfreq   1.434018348150479E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq           14
+ minval of imaginary S_Nfreq   2.507327013281151E-022
+ maxval of imaginary S_Nfreq   2.507327013281151E-022
+ minval of real S_Nfreq   9.081202924304510E-003
+ maxval of real S_Nfreq   9.081202924304510E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           15
+ minval of imaginary S_Nfreq  -4.901016868291560E-023
+ maxval of imaginary S_Nfreq  -4.901016868291560E-023
+ minval of real S_Nfreq   7.859102747065699E-003
+ maxval of real S_Nfreq   7.859102747065699E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           16
+ minval of imaginary S_Nfreq  -5.574692254589326E-021
+ maxval of imaginary S_Nfreq  -5.574692254589326E-021
+ minval of real S_Nfreq   6.755046846026970E-003
+ maxval of real S_Nfreq   6.755046846026970E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           17
+ minval of imaginary S_Nfreq   5.507266820830543E-021
+ maxval of imaginary S_Nfreq   5.507266820830543E-021
+ minval of real S_Nfreq   5.828637117893623E-003
+ maxval of real S_Nfreq   5.828637117893623E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           18
+ minval of imaginary S_Nfreq   1.888498900783804E-021
+ maxval of imaginary S_Nfreq   1.888498900783804E-021
+ minval of real S_Nfreq   6.374833508776239E-003
+ maxval of real S_Nfreq   6.374833508776239E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           19
+ minval of imaginary S_Nfreq   3.101307435905012E-021
+ maxval of imaginary S_Nfreq   3.101307435905012E-021
+ minval of real S_Nfreq   5.187253629015217E-003
+ maxval of real S_Nfreq   5.187253629015217E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           20
+ minval of imaginary S_Nfreq   7.205127167642586E-021
+ maxval of imaginary S_Nfreq   7.205127167642586E-021
+ minval of real S_Nfreq   4.368261802826071E-003
+ maxval of real S_Nfreq   4.368261802826071E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           21
+ minval of imaginary S_Nfreq   1.015031421627335E-021
+ maxval of imaginary S_Nfreq   1.015031421627335E-021
+ minval of real S_Nfreq   3.839840617669771E-003
+ maxval of real S_Nfreq   3.839840617669771E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           22
+ minval of imaginary S_Nfreq   2.391364393639995E-021
+ maxval of imaginary S_Nfreq   2.391364393639995E-021
+ minval of real S_Nfreq   3.453156938271452E-003
+ maxval of real S_Nfreq   3.453156938271452E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           23
+ minval of imaginary S_Nfreq   6.819117643085522E-022
+ maxval of imaginary S_Nfreq   6.819117643085522E-022
+ minval of real S_Nfreq   3.337823191283068E-003
+ maxval of real S_Nfreq   3.337823191283068E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           24
+ minval of imaginary S_Nfreq  -9.721862475710625E-022
+ maxval of imaginary S_Nfreq  -9.721862475710625E-022
+ minval of real S_Nfreq   2.916273672621470E-003
+ maxval of real S_Nfreq   2.916273672621470E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           25
+ minval of imaginary S_Nfreq   1.682676222349322E-022
+ maxval of imaginary S_Nfreq   1.682676222349322E-022
+ minval of real S_Nfreq   2.994611983377656E-003
+ maxval of real S_Nfreq   2.994611983377656E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           26
+ minval of imaginary S_Nfreq  -1.172840620414987E-021
+ maxval of imaginary S_Nfreq  -1.172840620414987E-021
+ minval of real S_Nfreq   3.081683202129772E-003
+ maxval of real S_Nfreq   3.081683202129772E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           27
+ minval of imaginary S_Nfreq  -1.252160964511990E-021
+ maxval of imaginary S_Nfreq  -1.252160964511990E-021
+ minval of real S_Nfreq   3.134500967007223E-003
+ maxval of real S_Nfreq   3.134500967007223E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           28
+ minval of imaginary S_Nfreq   1.103721462392119E-021
+ maxval of imaginary S_Nfreq   1.103721462392119E-021
+ minval of real S_Nfreq   2.634821169163372E-003
+ maxval of real S_Nfreq   2.634821169163372E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           29
+ minval of imaginary S_Nfreq   3.086655362506980E-023
+ maxval of imaginary S_Nfreq   3.086655362506980E-023
+ minval of real S_Nfreq   2.587301403018004E-003
+ maxval of real S_Nfreq   2.587301403018004E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           30
+ minval of imaginary S_Nfreq   3.721665620350143E-022
+ maxval of imaginary S_Nfreq   3.721665620350143E-022
+ minval of real S_Nfreq   2.506061153957088E-003
+ maxval of real S_Nfreq   2.506061153957088E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           31
+ minval of imaginary S_Nfreq  -5.491206599107869E-022
+ maxval of imaginary S_Nfreq  -5.491206599107869E-022
+ minval of real S_Nfreq   2.520473511227431E-003
+ maxval of real S_Nfreq   2.520473511227431E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           32
+ minval of imaginary S_Nfreq   9.437415671358135E-022
+ maxval of imaginary S_Nfreq   9.437415671358135E-022
+ minval of real S_Nfreq   2.687664378378457E-003
+ maxval of real S_Nfreq   2.687664378378457E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           33
+ minval of imaginary S_Nfreq  -1.565233636921061E-021
+ maxval of imaginary S_Nfreq  -1.565233636921061E-021
+ minval of real S_Nfreq   2.820679842307933E-003
+ maxval of real S_Nfreq   2.820679842307933E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           34
+ minval of imaginary S_Nfreq  -1.660262308366779E-021
+ maxval of imaginary S_Nfreq  -1.660262308366779E-021
+ minval of real S_Nfreq   2.620545176997413E-003
+ maxval of real S_Nfreq   2.620545176997413E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           35
+ minval of imaginary S_Nfreq  -7.176700136446297E-022
+ maxval of imaginary S_Nfreq  -7.176700136446297E-022
+ minval of real S_Nfreq   2.397693505976814E-003
+ maxval of real S_Nfreq   2.397693505976814E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           36
+ minval of imaginary S_Nfreq  -1.608970526738428E-021
+ maxval of imaginary S_Nfreq  -1.608970526738428E-021
+ minval of real S_Nfreq   2.262921893817793E-003
+ maxval of real S_Nfreq   2.262921893817793E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           37
+ minval of imaginary S_Nfreq  -2.249166058615286E-021
+ maxval of imaginary S_Nfreq  -2.249166058615286E-021
+ minval of real S_Nfreq   2.184911815788672E-003
+ maxval of real S_Nfreq   2.184911815788672E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           38
+ minval of imaginary S_Nfreq   1.286162248288058E-021
+ maxval of imaginary S_Nfreq   1.286162248288058E-021
+ minval of real S_Nfreq   2.071176152203860E-003
+ maxval of real S_Nfreq   2.071176152203860E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           39
+ minval of imaginary S_Nfreq  -1.181289355400418E-022
+ maxval of imaginary S_Nfreq  -1.181289355400418E-022
+ minval of real S_Nfreq   1.892355873401164E-003
+ maxval of real S_Nfreq   1.892355873401164E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           40
+ minval of imaginary S_Nfreq   1.900058252731330E-021
+ maxval of imaginary S_Nfreq   1.900058252731330E-021
+ minval of real S_Nfreq   1.868473822140496E-003
+ maxval of real S_Nfreq   1.868473822140496E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           41
+ minval of imaginary S_Nfreq   1.024574113981341E-021
+ maxval of imaginary S_Nfreq   1.024574113981341E-021
+ minval of real S_Nfreq   1.764016292282058E-003
+ maxval of real S_Nfreq   1.764016292282058E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           42
+ minval of imaginary S_Nfreq   1.733046375562761E-021
+ maxval of imaginary S_Nfreq   1.733046375562761E-021
+ minval of real S_Nfreq   1.692081220784107E-003
+ maxval of real S_Nfreq   1.692081220784107E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           43
+ minval of imaginary S_Nfreq  -1.065129037940845E-022
+ maxval of imaginary S_Nfreq  -1.065129037940845E-022
+ minval of real S_Nfreq   1.671439480983606E-003
+ maxval of real S_Nfreq   1.671439480983606E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           44
+ minval of imaginary S_Nfreq  -8.029395302489537E-022
+ maxval of imaginary S_Nfreq  -8.029395302489537E-022
+ minval of real S_Nfreq   1.456221826726167E-003
+ maxval of real S_Nfreq   1.456221826726167E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           45
+ minval of imaginary S_Nfreq  -2.807910457804905E-021
+ maxval of imaginary S_Nfreq  -2.807910457804905E-021
+ minval of real S_Nfreq   1.457748633588385E-003
+ maxval of real S_Nfreq   1.457748633588385E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           46
+ minval of imaginary S_Nfreq  -9.939071582083162E-022
+ maxval of imaginary S_Nfreq  -9.939071582083162E-022
+ minval of real S_Nfreq   1.745028220577211E-003
+ maxval of real S_Nfreq   1.745028220577211E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           47
+ minval of imaginary S_Nfreq   1.164236967216730E-021
+ maxval of imaginary S_Nfreq   1.164236967216730E-021
+ minval of real S_Nfreq   1.496446571103006E-003
+ maxval of real S_Nfreq   1.496446571103006E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           48
+ minval of imaginary S_Nfreq   1.068088071997966E-021
+ maxval of imaginary S_Nfreq   1.068088071997966E-021
+ minval of real S_Nfreq   1.332881538671140E-003
+ maxval of real S_Nfreq   1.332881538671140E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           49
+ minval of imaginary S_Nfreq   2.540158576059989E-022
+ maxval of imaginary S_Nfreq   2.540158576059989E-022
+ minval of real S_Nfreq   1.434939180735832E-003
+ maxval of real S_Nfreq   1.434939180735832E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           50
+ minval of imaginary S_Nfreq  -3.481480569464841E-022
+ maxval of imaginary S_Nfreq  -3.481480569464841E-022
+ minval of real S_Nfreq   1.405136162601054E-003
+ maxval of real S_Nfreq   1.405136162601054E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           51
+ minval of imaginary S_Nfreq  -6.987911049750911E-022
+ maxval of imaginary S_Nfreq  -6.987911049750911E-022
+ minval of real S_Nfreq   1.452197997662620E-003
+ maxval of real S_Nfreq   1.452197997662620E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           52
+ minval of imaginary S_Nfreq   1.459535235945021E-021
+ maxval of imaginary S_Nfreq   1.459535235945021E-021
+ minval of real S_Nfreq   1.290879383321039E-003
+ maxval of real S_Nfreq   1.290879383321039E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           53
+ minval of imaginary S_Nfreq   4.281993867258135E-022
+ maxval of imaginary S_Nfreq   4.281993867258135E-022
+ minval of real S_Nfreq   1.317997277541709E-003
+ maxval of real S_Nfreq   1.317997277541709E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           54
+ minval of imaginary S_Nfreq  -4.583001623322099E-022
+ maxval of imaginary S_Nfreq  -4.583001623322099E-022
+ minval of real S_Nfreq   1.319227075481833E-003
+ maxval of real S_Nfreq   1.319227075481833E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           55
+ minval of imaginary S_Nfreq  -2.668073275686152E-022
+ maxval of imaginary S_Nfreq  -2.668073275686152E-022
+ minval of real S_Nfreq   1.374768868935654E-003
+ maxval of real S_Nfreq   1.374768868935654E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           56
+ minval of imaginary S_Nfreq   3.140823049647042E-022
+ maxval of imaginary S_Nfreq   3.140823049647042E-022
+ minval of real S_Nfreq   1.185573632357764E-003
+ maxval of real S_Nfreq   1.185573632357764E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           57
+ minval of imaginary S_Nfreq   1.276700520551706E-022
+ maxval of imaginary S_Nfreq   1.276700520551706E-022
+ minval of real S_Nfreq   1.131724963954152E-003
+ maxval of real S_Nfreq   1.131724963954152E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           58
+ minval of imaginary S_Nfreq   1.547888284417085E-022
+ maxval of imaginary S_Nfreq   1.547888284417085E-022
+ minval of real S_Nfreq   1.100283417696467E-003
+ maxval of real S_Nfreq   1.100283417696467E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           59
+ minval of imaginary S_Nfreq   7.207958475527727E-022
+ maxval of imaginary S_Nfreq   7.207958475527727E-022
+ minval of real S_Nfreq   1.014822816092417E-003
+ maxval of real S_Nfreq   1.014822816092417E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq           60
+ minval of imaginary S_Nfreq   9.292604560733569E-022
+ maxval of imaginary S_Nfreq   9.292604560733569E-022
+ minval of real S_Nfreq   9.610139769815390E-004
+ maxval of real S_Nfreq   9.610139769815390E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           61
+ minval of imaginary S_Nfreq   3.948291737181110E-022
+ maxval of imaginary S_Nfreq   3.948291737181110E-022
+ minval of real S_Nfreq   8.800043880221519E-004
+ maxval of real S_Nfreq   8.800043880221519E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           62
+ minval of imaginary S_Nfreq  -4.220362422132398E-022
+ maxval of imaginary S_Nfreq  -4.220362422132398E-022
+ minval of real S_Nfreq   8.314082623615217E-004
+ maxval of real S_Nfreq   8.314082623615217E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           63
+ minval of imaginary S_Nfreq   1.289869092995763E-022
+ maxval of imaginary S_Nfreq   1.289869092995763E-022
+ minval of real S_Nfreq   8.216159832439683E-004
+ maxval of real S_Nfreq   8.216159832439683E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           64
+ minval of imaginary S_Nfreq  -5.842913824299453E-022
+ maxval of imaginary S_Nfreq  -5.842913824299453E-022
+ minval of real S_Nfreq   8.691136080992025E-004
+ maxval of real S_Nfreq   8.691136080992025E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           65
+ minval of imaginary S_Nfreq   5.876267421674998E-022
+ maxval of imaginary S_Nfreq   5.876267421674998E-022
+ minval of real S_Nfreq   7.248153146701471E-004
+ maxval of real S_Nfreq   7.248153146701471E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           66
+ minval of imaginary S_Nfreq  -5.612013376058520E-022
+ maxval of imaginary S_Nfreq  -5.612013376058520E-022
+ minval of real S_Nfreq   6.330106884372712E-004
+ maxval of real S_Nfreq   6.330106884372712E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           67
+ minval of imaginary S_Nfreq   6.897855317574824E-022
+ maxval of imaginary S_Nfreq   6.897855317574824E-022
+ minval of real S_Nfreq   6.521919550833065E-004
+ maxval of real S_Nfreq   6.521919550833065E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           68
+ minval of imaginary S_Nfreq   3.664524388340876E-023
+ maxval of imaginary S_Nfreq   3.664524388340876E-023
+ minval of real S_Nfreq   6.373039669629131E-004
+ maxval of real S_Nfreq   6.373039669629131E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           69
+ minval of imaginary S_Nfreq   5.457924016947617E-023
+ maxval of imaginary S_Nfreq   5.457924016947617E-023
+ minval of real S_Nfreq   5.523458124598643E-004
+ maxval of real S_Nfreq   5.523458124598643E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           70
+ minval of imaginary S_Nfreq   4.349580062943728E-022
+ maxval of imaginary S_Nfreq   4.349580062943728E-022
+ minval of real S_Nfreq   5.916728470685943E-004
+ maxval of real S_Nfreq   5.916728470685943E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           71
+ minval of imaginary S_Nfreq   2.907396628310183E-022
+ maxval of imaginary S_Nfreq   2.907396628310183E-022
+ minval of real S_Nfreq   5.543462477091492E-004
+ maxval of real S_Nfreq   5.543462477091492E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           72
+ minval of imaginary S_Nfreq   2.371838425827806E-022
+ maxval of imaginary S_Nfreq   2.371838425827806E-022
+ minval of real S_Nfreq   5.127748354838744E-004
+ maxval of real S_Nfreq   5.127748354838744E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           73
+ minval of imaginary S_Nfreq  -4.714858019137118E-022
+ maxval of imaginary S_Nfreq  -4.714858019137118E-022
+ minval of real S_Nfreq   4.372450751773915E-004
+ maxval of real S_Nfreq   4.372450751773915E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           74
+ minval of imaginary S_Nfreq  -8.014377523675362E-023
+ maxval of imaginary S_Nfreq  -8.014377523675362E-023
+ minval of real S_Nfreq   3.796647247468951E-004
+ maxval of real S_Nfreq   3.796647247468951E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           75
+ minval of imaginary S_Nfreq   2.623367075784587E-022
+ maxval of imaginary S_Nfreq   2.623367075784587E-022
+ minval of real S_Nfreq   3.476486024011895E-004
+ maxval of real S_Nfreq   3.476486024011895E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           76
+ minval of imaginary S_Nfreq  -1.825787940640383E-023
+ maxval of imaginary S_Nfreq  -1.825787940640383E-023
+ minval of real S_Nfreq   3.478001018241959E-004
+ maxval of real S_Nfreq   3.478001018241959E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           77
+ minval of imaginary S_Nfreq  -6.338047785870674E-023
+ maxval of imaginary S_Nfreq  -6.338047785870674E-023
+ minval of real S_Nfreq   3.244536940504822E-004
+ maxval of real S_Nfreq   3.244536940504822E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           78
+ minval of imaginary S_Nfreq   2.404158268501201E-022
+ maxval of imaginary S_Nfreq   2.404158268501201E-022
+ minval of real S_Nfreq   3.189498436147990E-004
+ maxval of real S_Nfreq   3.189498436147990E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           79
+ minval of imaginary S_Nfreq  -1.145701923309102E-022
+ maxval of imaginary S_Nfreq  -1.145701923309102E-022
+ minval of real S_Nfreq   2.812426451137587E-004
+ maxval of real S_Nfreq   2.812426451137587E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           80
+ minval of imaginary S_Nfreq   2.525196004204487E-023
+ maxval of imaginary S_Nfreq   2.525196004204487E-023
+ minval of real S_Nfreq   2.368418351767696E-004
+ maxval of real S_Nfreq   2.368418351767696E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           81
+ minval of imaginary S_Nfreq   1.408339843308124E-022
+ maxval of imaginary S_Nfreq   1.408339843308124E-022
+ minval of real S_Nfreq   2.145690444952383E-004
+ maxval of real S_Nfreq   2.145690444952383E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           82
+ minval of imaginary S_Nfreq   3.963426055986398E-023
+ maxval of imaginary S_Nfreq   3.963426055986398E-023
+ minval of real S_Nfreq   1.802779074141388E-004
+ maxval of real S_Nfreq   1.802779074141388E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           83
+ minval of imaginary S_Nfreq   2.559787001321180E-022
+ maxval of imaginary S_Nfreq   2.559787001321180E-022
+ minval of real S_Nfreq   1.613736809612355E-004
+ maxval of real S_Nfreq   1.613736809612355E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           84
+ minval of imaginary S_Nfreq  -1.712208983687813E-022
+ maxval of imaginary S_Nfreq  -1.712208983687813E-022
+ minval of real S_Nfreq   1.448344378371984E-004
+ maxval of real S_Nfreq   1.448344378371984E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           85
+ minval of imaginary S_Nfreq  -1.097276322694716E-022
+ maxval of imaginary S_Nfreq  -1.097276322694716E-022
+ minval of real S_Nfreq   1.290366772681804E-004
+ maxval of real S_Nfreq   1.290366772681804E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq           86
+ minval of imaginary S_Nfreq  -4.222504774748863E-023
+ maxval of imaginary S_Nfreq  -4.222504774748863E-023
+ minval of real S_Nfreq   9.533809437806674E-005
+ maxval of real S_Nfreq   9.533809437806674E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           87
+ minval of imaginary S_Nfreq  -1.146135601624657E-023
+ maxval of imaginary S_Nfreq  -1.146135601624657E-023
+ minval of real S_Nfreq   7.769490441541256E-005
+ maxval of real S_Nfreq   7.769490441541256E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           88
+ minval of imaginary S_Nfreq   7.204046284022762E-023
+ maxval of imaginary S_Nfreq   7.204046284022762E-023
+ minval of real S_Nfreq   7.528508377967591E-005
+ maxval of real S_Nfreq   7.528508377967591E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           89
+ minval of imaginary S_Nfreq  -1.140906677304521E-023
+ maxval of imaginary S_Nfreq  -1.140906677304521E-023
+ minval of real S_Nfreq   6.679683968370592E-005
+ maxval of real S_Nfreq   6.679683968370592E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           90
+ minval of imaginary S_Nfreq  -4.244876906428748E-024
+ maxval of imaginary S_Nfreq  -4.244876906428748E-024
+ minval of real S_Nfreq   5.036513781921415E-005
+ maxval of real S_Nfreq   5.036513781921415E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           91
+ minval of imaginary S_Nfreq  -2.939489035266383E-023
+ maxval of imaginary S_Nfreq  -2.939489035266383E-023
+ minval of real S_Nfreq   4.374577594060280E-005
+ maxval of real S_Nfreq   4.374577594060280E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           92
+ minval of imaginary S_Nfreq  -1.668464088635439E-023
+ maxval of imaginary S_Nfreq  -1.668464088635439E-023
+ minval of real S_Nfreq   3.891661022601545E-005
+ maxval of real S_Nfreq   3.891661022601545E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           93
+ minval of imaginary S_Nfreq  -1.457572718831143E-023
+ maxval of imaginary S_Nfreq  -1.457572718831143E-023
+ minval of real S_Nfreq   3.312916170692348E-005
+ maxval of real S_Nfreq   3.312916170692348E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           94
+ minval of imaginary S_Nfreq   8.442767847712273E-024
+ maxval of imaginary S_Nfreq   8.442767847712273E-024
+ minval of real S_Nfreq   2.852658774695029E-005
+ maxval of real S_Nfreq   2.852658774695029E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           95
+ minval of imaginary S_Nfreq  -7.974494887628153E-024
+ maxval of imaginary S_Nfreq  -7.974494887628153E-024
+ minval of real S_Nfreq   2.214682374930374E-005
+ maxval of real S_Nfreq   2.214682374930374E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           96
+ minval of imaginary S_Nfreq   3.394628260932598E-024
+ maxval of imaginary S_Nfreq   3.394628260932598E-024
+ minval of real S_Nfreq   1.574965924295880E-005
+ maxval of real S_Nfreq   1.574965924295880E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           97
+ minval of imaginary S_Nfreq  -3.194239636407419E-024
+ maxval of imaginary S_Nfreq  -3.194239636407419E-024
+ minval of real S_Nfreq   1.168560619356013E-005
+ maxval of real S_Nfreq   1.168560619356013E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq           98
+ minval of imaginary S_Nfreq   6.345049156697296E-024
+ maxval of imaginary S_Nfreq   6.345049156697296E-024
+ minval of real S_Nfreq   7.735968280429521E-006
+ maxval of real S_Nfreq   7.735968280429521E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq           99
+ minval of imaginary S_Nfreq  -7.011084204068841E-024
+ maxval of imaginary S_Nfreq  -7.011084204068841E-024
+ minval of real S_Nfreq   5.075951990358277E-006
+ maxval of real S_Nfreq   5.075951990358277E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          100
+ minval of imaginary S_Nfreq   9.245535356509360E-025
+ maxval of imaginary S_Nfreq   9.245535356509360E-025
+ minval of real S_Nfreq   4.066701814728199E-006
+ maxval of real S_Nfreq   4.066701814728199E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          101
+ minval of imaginary S_Nfreq  -6.727298726772297E-024
+ maxval of imaginary S_Nfreq  -6.727298726772297E-024
+ minval of real S_Nfreq   3.413617473202543E-006
+ maxval of real S_Nfreq   3.413617473202543E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          102
+ minval of imaginary S_Nfreq  -1.461000486116458E-024
+ maxval of imaginary S_Nfreq  -1.461000486116458E-024
+ minval of real S_Nfreq   2.773825553695909E-006
+ maxval of real S_Nfreq   2.773825553695909E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          103
+ minval of imaginary S_Nfreq   1.359504474316451E-024
+ maxval of imaginary S_Nfreq   1.359504474316451E-024
+ minval of real S_Nfreq   2.421139916459220E-006
+ maxval of real S_Nfreq   2.421139916459220E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          104
+ minval of imaginary S_Nfreq   3.637404338261281E-024
+ maxval of imaginary S_Nfreq   3.637404338261281E-024
+ minval of real S_Nfreq   2.166808177008764E-006
+ maxval of real S_Nfreq   2.166808177008764E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          105
+ minval of imaginary S_Nfreq   1.011002115832431E-024
+ maxval of imaginary S_Nfreq   1.011002115832431E-024
+ minval of real S_Nfreq   1.934425752356432E-006
+ maxval of real S_Nfreq   1.934425752356432E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          106
+ minval of imaginary S_Nfreq   1.641264183791223E-024
+ maxval of imaginary S_Nfreq   1.641264183791223E-024
+ minval of real S_Nfreq   1.721656601710308E-006
+ maxval of real S_Nfreq   1.721656601710308E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          107
+ minval of imaginary S_Nfreq  -3.217622100768745E-025
+ maxval of imaginary S_Nfreq  -3.217622100768745E-025
+ minval of real S_Nfreq   1.485617379927020E-006
+ maxval of real S_Nfreq   1.485617379927020E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          108
+ minval of imaginary S_Nfreq   7.374687478965007E-025
+ maxval of imaginary S_Nfreq   7.374687478965007E-025
+ minval of real S_Nfreq   1.349183958702443E-006
+ maxval of real S_Nfreq   1.349183958702443E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          109
+ minval of imaginary S_Nfreq   1.098304708214137E-024
+ maxval of imaginary S_Nfreq   1.098304708214137E-024
+ minval of real S_Nfreq   1.206944393228814E-006
+ maxval of real S_Nfreq   1.206944393228814E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          110
+ minval of imaginary S_Nfreq   1.223714360431504E-024
+ maxval of imaginary S_Nfreq   1.223714360431504E-024
+ minval of real S_Nfreq   1.080729235323402E-006
+ maxval of real S_Nfreq   1.080729235323402E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          111
+ minval of imaginary S_Nfreq  -3.116346050484548E-025
+ maxval of imaginary S_Nfreq  -3.116346050484548E-025
+ minval of real S_Nfreq   9.899924453317282E-007
+ maxval of real S_Nfreq   9.899924453317282E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          112
+ minval of imaginary S_Nfreq   5.662974334882905E-025
+ maxval of imaginary S_Nfreq   5.662974334882905E-025
+ minval of real S_Nfreq   9.078151621809239E-007
+ maxval of real S_Nfreq   9.078151621809239E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          113
+ minval of imaginary S_Nfreq  -7.285172391769917E-025
+ maxval of imaginary S_Nfreq  -7.285172391769917E-025
+ minval of real S_Nfreq   8.855287733464936E-007
+ maxval of real S_Nfreq   8.855287733464936E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          114
+ minval of imaginary S_Nfreq   2.708046112472260E-025
+ maxval of imaginary S_Nfreq   2.708046112472260E-025
+ minval of real S_Nfreq   7.517098451001433E-007
+ maxval of real S_Nfreq   7.517098451001433E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          115
+ minval of imaginary S_Nfreq  -8.525004790823532E-025
+ maxval of imaginary S_Nfreq  -8.525004790823532E-025
+ minval of real S_Nfreq   7.029153896072127E-007
+ maxval of real S_Nfreq   7.029153896072127E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          116
+ minval of imaginary S_Nfreq  -3.964652266066431E-025
+ maxval of imaginary S_Nfreq  -3.964652266066431E-025
+ minval of real S_Nfreq   7.245987251166975E-007
+ maxval of real S_Nfreq   7.245987251166975E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          117
+ minval of imaginary S_Nfreq   3.631987092969751E-026
+ maxval of imaginary S_Nfreq   3.631987092969751E-026
+ minval of real S_Nfreq   6.106408905338827E-007
+ maxval of real S_Nfreq   6.106408905338827E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          118
+ minval of imaginary S_Nfreq   1.633250400276076E-026
+ maxval of imaginary S_Nfreq   1.633250400276076E-026
+ minval of real S_Nfreq   5.778821216235780E-007
+ maxval of real S_Nfreq   5.778821216235780E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          119
+ minval of imaginary S_Nfreq  -4.403840162278160E-025
+ maxval of imaginary S_Nfreq  -4.403840162278160E-025
+ minval of real S_Nfreq   5.532852970306635E-007
+ maxval of real S_Nfreq   5.532852970306635E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          120
+ minval of imaginary S_Nfreq  -3.631742247344324E-025
+ maxval of imaginary S_Nfreq  -3.631742247344324E-025
+ minval of real S_Nfreq   5.131001094282083E-007
+ maxval of real S_Nfreq   5.131001094282083E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          121
+ minval of imaginary S_Nfreq  -4.553577581973770E-025
+ maxval of imaginary S_Nfreq  -4.553577581973770E-025
+ minval of real S_Nfreq   5.123809710136141E-007
+ maxval of real S_Nfreq   5.123809710136141E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          122
+ minval of imaginary S_Nfreq   4.062505862179536E-025
+ maxval of imaginary S_Nfreq   4.062505862179536E-025
+ minval of real S_Nfreq   5.122558551633300E-007
+ maxval of real S_Nfreq   5.122558551633300E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          123
+ minval of imaginary S_Nfreq  -6.369575594069345E-026
+ maxval of imaginary S_Nfreq  -6.369575594069345E-026
+ minval of real S_Nfreq   4.748287807662331E-007
+ maxval of real S_Nfreq   4.748287807662331E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          124
+ minval of imaginary S_Nfreq  -2.558881767289751E-025
+ maxval of imaginary S_Nfreq  -2.558881767289751E-025
+ minval of real S_Nfreq   4.533721590676512E-007
+ maxval of real S_Nfreq   4.533721590676512E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          125
+ minval of imaginary S_Nfreq  -5.397122158314478E-025
+ maxval of imaginary S_Nfreq  -5.397122158314478E-025
+ minval of real S_Nfreq   4.669311975026533E-007
+ maxval of real S_Nfreq   4.669311975026533E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          126
+ minval of imaginary S_Nfreq   2.393678162828027E-025
+ maxval of imaginary S_Nfreq   2.393678162828027E-025
+ minval of real S_Nfreq   4.279465809903421E-007
+ maxval of real S_Nfreq   4.279465809903421E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          127
+ minval of imaginary S_Nfreq   8.033527127634038E-025
+ maxval of imaginary S_Nfreq   8.033527127634038E-025
+ minval of real S_Nfreq   4.367187277023418E-007
+ maxval of real S_Nfreq   4.367187277023418E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          128
+ minval of imaginary S_Nfreq  -1.200007928955312E-025
+ maxval of imaginary S_Nfreq  -1.200007928955312E-025
+ minval of real S_Nfreq   4.307548611398583E-007
+ maxval of real S_Nfreq   4.307548611398583E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          129
+ minval of imaginary S_Nfreq   0.000000000000000E+000
+ maxval of imaginary S_Nfreq   0.000000000000000E+000
+ minval of real S_Nfreq   4.413536995605094E-007
+ maxval of real S_Nfreq   4.413536995605094E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          130
+ minval of imaginary S_Nfreq   3.441913632810336E-026
+ maxval of imaginary S_Nfreq   3.441913632810336E-026
+ minval of real S_Nfreq   4.307548611398578E-007
+ maxval of real S_Nfreq   4.307548611398578E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          131
+ minval of imaginary S_Nfreq  -3.892557461963239E-025
+ maxval of imaginary S_Nfreq  -3.892557461963239E-025
+ minval of real S_Nfreq   4.367187277023411E-007
+ maxval of real S_Nfreq   4.367187277023411E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          132
+ minval of imaginary S_Nfreq   3.854677088112021E-025
+ maxval of imaginary S_Nfreq   3.854677088112021E-025
+ minval of real S_Nfreq   4.279465809903374E-007
+ maxval of real S_Nfreq   4.279465809903374E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          133
+ minval of imaginary S_Nfreq  -1.984479807719832E-025
+ maxval of imaginary S_Nfreq  -1.984479807719832E-025
+ minval of real S_Nfreq   4.669311975026562E-007
+ maxval of real S_Nfreq   4.669311975026562E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          134
+ minval of imaginary S_Nfreq  -4.974060523714355E-026
+ maxval of imaginary S_Nfreq  -4.974060523714355E-026
+ minval of real S_Nfreq   4.533721590676494E-007
+ maxval of real S_Nfreq   4.533721590676494E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          135
+ minval of imaginary S_Nfreq   4.009939097252800E-025
+ maxval of imaginary S_Nfreq   4.009939097252800E-025
+ minval of real S_Nfreq   4.748287807662328E-007
+ maxval of real S_Nfreq   4.748287807662328E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          136
+ minval of imaginary S_Nfreq   3.953389487791394E-026
+ maxval of imaginary S_Nfreq   3.953389487791394E-026
+ minval of real S_Nfreq   5.122558551633296E-007
+ maxval of real S_Nfreq   5.122558551633296E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          137
+ minval of imaginary S_Nfreq   4.640617424401346E-025
+ maxval of imaginary S_Nfreq   4.640617424401346E-025
+ minval of real S_Nfreq   5.123809710136138E-007
+ maxval of real S_Nfreq   5.123809710136138E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          138
+ minval of imaginary S_Nfreq  -1.354105596839914E-025
+ maxval of imaginary S_Nfreq  -1.354105596839914E-025
+ minval of real S_Nfreq   5.131001094282087E-007
+ maxval of real S_Nfreq   5.131001094282087E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          139
+ minval of imaginary S_Nfreq   1.792018937200751E-025
+ maxval of imaginary S_Nfreq   1.792018937200751E-025
+ minval of real S_Nfreq   5.532852970306643E-007
+ maxval of real S_Nfreq   5.532852970306643E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          140
+ minval of imaginary S_Nfreq  -6.078929149122860E-026
+ maxval of imaginary S_Nfreq  -6.078929149122860E-026
+ minval of real S_Nfreq   5.778821216235798E-007
+ maxval of real S_Nfreq   5.778821216235798E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          141
+ minval of imaginary S_Nfreq  -3.709353675005809E-025
+ maxval of imaginary S_Nfreq  -3.709353675005809E-025
+ minval of real S_Nfreq   6.106408905338804E-007
+ maxval of real S_Nfreq   6.106408905338804E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          142
+ minval of imaginary S_Nfreq   4.294260780655432E-025
+ maxval of imaginary S_Nfreq   4.294260780655432E-025
+ minval of real S_Nfreq   7.245987251166970E-007
+ maxval of real S_Nfreq   7.245987251166970E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          143
+ minval of imaginary S_Nfreq  -1.207473494987113E-025
+ maxval of imaginary S_Nfreq  -1.207473494987113E-025
+ minval of real S_Nfreq   7.029153896072131E-007
+ maxval of real S_Nfreq   7.029153896072131E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          144
+ minval of imaginary S_Nfreq  -1.487125333323042E-024
+ maxval of imaginary S_Nfreq  -1.487125333323042E-024
+ minval of real S_Nfreq   7.517098451001429E-007
+ maxval of real S_Nfreq   7.517098451001429E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          145
+ minval of imaginary S_Nfreq   7.285172391769917E-025
+ maxval of imaginary S_Nfreq   7.285172391769917E-025
+ minval of real S_Nfreq   8.855287733464936E-007
+ maxval of real S_Nfreq   8.855287733464936E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          146
+ minval of imaginary S_Nfreq  -2.457121869851721E-027
+ maxval of imaginary S_Nfreq  -2.457121869851721E-027
+ minval of real S_Nfreq   9.078151621809233E-007
+ maxval of real S_Nfreq   9.078151621809233E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          147
+ minval of imaginary S_Nfreq  -1.903360668088015E-024
+ maxval of imaginary S_Nfreq  -1.903360668088015E-024
+ minval of real S_Nfreq   9.899924453317259E-007
+ maxval of real S_Nfreq   9.899924453317259E-007
+ Shape of S_Nfreq            1           1
+ In Nfreq          148
+ minval of imaginary S_Nfreq  -4.922644061618187E-025
+ maxval of imaginary S_Nfreq  -4.922644061618187E-025
+ minval of real S_Nfreq   1.080729235323401E-006
+ maxval of real S_Nfreq   1.080729235323401E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          149
+ minval of imaginary S_Nfreq   1.989306243036374E-024
+ maxval of imaginary S_Nfreq   1.989306243036374E-024
+ minval of real S_Nfreq   1.206944393228812E-006
+ maxval of real S_Nfreq   1.206944393228812E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          150
+ minval of imaginary S_Nfreq   3.914161192292171E-025
+ maxval of imaginary S_Nfreq   3.914161192292171E-025
+ minval of real S_Nfreq   1.349183958702442E-006
+ maxval of real S_Nfreq   1.349183958702442E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          151
+ minval of imaginary S_Nfreq  -3.914782890846936E-025
+ maxval of imaginary S_Nfreq  -3.914782890846936E-025
+ minval of real S_Nfreq   1.485617379927018E-006
+ maxval of real S_Nfreq   1.485617379927018E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          152
+ minval of imaginary S_Nfreq   1.245122536307919E-025
+ maxval of imaginary S_Nfreq   1.245122536307919E-025
+ minval of real S_Nfreq   1.721656601710309E-006
+ maxval of real S_Nfreq   1.721656601710309E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          153
+ minval of imaginary S_Nfreq   4.041263318321638E-025
+ maxval of imaginary S_Nfreq   4.041263318321638E-025
+ minval of real S_Nfreq   1.934425752356432E-006
+ maxval of real S_Nfreq   1.934425752356432E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          154
+ minval of imaginary S_Nfreq   9.651548449192557E-025
+ maxval of imaginary S_Nfreq   9.651548449192557E-025
+ minval of real S_Nfreq   2.166808177008763E-006
+ maxval of real S_Nfreq   2.166808177008763E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          155
+ minval of imaginary S_Nfreq   4.838989642104890E-024
+ maxval of imaginary S_Nfreq   4.838989642104890E-024
+ minval of real S_Nfreq   2.421139916459219E-006
+ maxval of real S_Nfreq   2.421139916459219E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          156
+ minval of imaginary S_Nfreq   4.842573157729117E-024
+ maxval of imaginary S_Nfreq   4.842573157729117E-024
+ minval of real S_Nfreq   2.773825553695910E-006
+ maxval of real S_Nfreq   2.773825553695910E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          157
+ minval of imaginary S_Nfreq  -3.881549594625307E-024
+ maxval of imaginary S_Nfreq  -3.881549594625307E-024
+ minval of real S_Nfreq   3.413617473202537E-006
+ maxval of real S_Nfreq   3.413617473202537E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          158
+ minval of imaginary S_Nfreq  -5.407556418578518E-024
+ maxval of imaginary S_Nfreq  -5.407556418578518E-024
+ minval of real S_Nfreq   4.066701814728204E-006
+ maxval of real S_Nfreq   4.066701814728204E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          159
+ minval of imaginary S_Nfreq   2.759439890897225E-024
+ maxval of imaginary S_Nfreq   2.759439890897225E-024
+ minval of real S_Nfreq   5.075951990358280E-006
+ maxval of real S_Nfreq   5.075951990358280E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          160
+ minval of imaginary S_Nfreq  -4.248605175196111E-024
+ maxval of imaginary S_Nfreq  -4.248605175196111E-024
+ minval of real S_Nfreq   7.735968280429523E-006
+ maxval of real S_Nfreq   7.735968280429523E-006
+ Shape of S_Nfreq            1           1
+ In Nfreq          161
+ minval of imaginary S_Nfreq   3.194239636407419E-024
+ maxval of imaginary S_Nfreq   3.194239636407419E-024
+ minval of real S_Nfreq   1.168560619356013E-005
+ maxval of real S_Nfreq   1.168560619356013E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          162
+ minval of imaginary S_Nfreq  -3.645240774874877E-023
+ maxval of imaginary S_Nfreq  -3.645240774874877E-023
+ minval of real S_Nfreq   1.574965924295880E-005
+ maxval of real S_Nfreq   1.574965924295880E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          163
+ minval of imaginary S_Nfreq  -1.652179455542258E-024
+ maxval of imaginary S_Nfreq  -1.652179455542258E-024
+ minval of real S_Nfreq   2.214682374930375E-005
+ maxval of real S_Nfreq   2.214682374930375E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          164
+ minval of imaginary S_Nfreq  -3.247633958112163E-023
+ maxval of imaginary S_Nfreq  -3.247633958112163E-023
+ minval of real S_Nfreq   2.852658774695030E-005
+ maxval of real S_Nfreq   2.852658774695030E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          165
+ minval of imaginary S_Nfreq  -4.758183373618921E-024
+ maxval of imaginary S_Nfreq  -4.758183373618921E-024
+ minval of real S_Nfreq   3.312916170692349E-005
+ maxval of real S_Nfreq   3.312916170692349E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          166
+ minval of imaginary S_Nfreq  -2.421454136471514E-023
+ maxval of imaginary S_Nfreq  -2.421454136471514E-023
+ minval of real S_Nfreq   3.891661022601545E-005
+ maxval of real S_Nfreq   3.891661022601545E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          167
+ minval of imaginary S_Nfreq   7.174633000268348E-023
+ maxval of imaginary S_Nfreq   7.174633000268348E-023
+ minval of real S_Nfreq   4.374577594060281E-005
+ maxval of real S_Nfreq   4.374577594060281E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          168
+ minval of imaginary S_Nfreq   3.819867858174939E-023
+ maxval of imaginary S_Nfreq   3.819867858174939E-023
+ minval of real S_Nfreq   5.036513781921415E-005
+ maxval of real S_Nfreq   5.036513781921415E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          169
+ minval of imaginary S_Nfreq  -5.067915210928197E-023
+ maxval of imaginary S_Nfreq  -5.067915210928197E-023
+ minval of real S_Nfreq   6.679683968370595E-005
+ maxval of real S_Nfreq   6.679683968370595E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          170
+ minval of imaginary S_Nfreq  -4.368640063813210E-023
+ maxval of imaginary S_Nfreq  -4.368640063813210E-023
+ minval of real S_Nfreq   7.528508377967587E-005
+ maxval of real S_Nfreq   7.528508377967587E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          171
+ minval of imaginary S_Nfreq   7.514041328131606E-024
+ maxval of imaginary S_Nfreq   7.514041328131606E-024
+ minval of real S_Nfreq   7.769490441541259E-005
+ maxval of real S_Nfreq   7.769490441541259E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          172
+ minval of imaginary S_Nfreq  -5.875420230194279E-023
+ maxval of imaginary S_Nfreq  -5.875420230194279E-023
+ minval of real S_Nfreq   9.533809437806676E-005
+ maxval of real S_Nfreq   9.533809437806676E-005
+ Shape of S_Nfreq            1           1
+ In Nfreq          173
+ minval of imaginary S_Nfreq  -7.485100537802203E-023
+ maxval of imaginary S_Nfreq  -7.485100537802203E-023
+ minval of real S_Nfreq   1.290366772681804E-004
+ maxval of real S_Nfreq   1.290366772681804E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          174
+ minval of imaginary S_Nfreq  -1.694303275201141E-022
+ maxval of imaginary S_Nfreq  -1.694303275201141E-022
+ minval of real S_Nfreq   1.448344378371984E-004
+ maxval of real S_Nfreq   1.448344378371984E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          175
+ minval of imaginary S_Nfreq   2.876945640841964E-023
+ maxval of imaginary S_Nfreq   2.876945640841964E-023
+ minval of real S_Nfreq   1.613736809612355E-004
+ maxval of real S_Nfreq   1.613736809612355E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          176
+ minval of imaginary S_Nfreq   8.014802549456967E-023
+ maxval of imaginary S_Nfreq   8.014802549456967E-023
+ minval of real S_Nfreq   1.802779074141388E-004
+ maxval of real S_Nfreq   1.802779074141388E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          177
+ minval of imaginary S_Nfreq  -1.408339843308124E-022
+ maxval of imaginary S_Nfreq  -1.408339843308124E-022
+ minval of real S_Nfreq   2.145690444952383E-004
+ maxval of real S_Nfreq   2.145690444952383E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          178
+ minval of imaginary S_Nfreq  -2.483116644561627E-023
+ maxval of imaginary S_Nfreq  -2.483116644561627E-023
+ minval of real S_Nfreq   2.368418351767696E-004
+ maxval of real S_Nfreq   2.368418351767696E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          179
+ minval of imaginary S_Nfreq   7.606424822796327E-023
+ maxval of imaginary S_Nfreq   7.606424822796327E-023
+ minval of real S_Nfreq   2.812426451137586E-004
+ maxval of real S_Nfreq   2.812426451137586E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          180
+ minval of imaginary S_Nfreq  -8.373229746124290E-024
+ maxval of imaginary S_Nfreq  -8.373229746124290E-024
+ minval of real S_Nfreq   3.189498436147991E-004
+ maxval of real S_Nfreq   3.189498436147991E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          181
+ minval of imaginary S_Nfreq  -1.946449708924743E-022
+ maxval of imaginary S_Nfreq  -1.946449708924743E-022
+ minval of real S_Nfreq   3.244536940504822E-004
+ maxval of real S_Nfreq   3.244536940504822E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          182
+ minval of imaginary S_Nfreq   1.750254178916487E-022
+ maxval of imaginary S_Nfreq   1.750254178916487E-022
+ minval of real S_Nfreq   3.478001018241958E-004
+ maxval of real S_Nfreq   3.478001018241958E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          183
+ minval of imaginary S_Nfreq   3.243507050179232E-022
+ maxval of imaginary S_Nfreq   3.243507050179232E-022
+ minval of real S_Nfreq   3.476486024011895E-004
+ maxval of real S_Nfreq   3.476486024011895E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          184
+ minval of imaginary S_Nfreq   1.221060378084337E-022
+ maxval of imaginary S_Nfreq   1.221060378084337E-022
+ minval of real S_Nfreq   3.796647247468951E-004
+ maxval of real S_Nfreq   3.796647247468951E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          185
+ minval of imaginary S_Nfreq   1.412864945289423E-022
+ maxval of imaginary S_Nfreq   1.412864945289423E-022
+ minval of real S_Nfreq   4.372450751773914E-004
+ maxval of real S_Nfreq   4.372450751773914E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          186
+ minval of imaginary S_Nfreq   6.187443500080210E-022
+ maxval of imaginary S_Nfreq   6.187443500080210E-022
+ minval of real S_Nfreq   5.127748354838745E-004
+ maxval of real S_Nfreq   5.127748354838745E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          187
+ minval of imaginary S_Nfreq   5.860633315668841E-022
+ maxval of imaginary S_Nfreq   5.860633315668841E-022
+ minval of real S_Nfreq   5.543462477091492E-004
+ maxval of real S_Nfreq   5.543462477091492E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          188
+ minval of imaginary S_Nfreq  -1.765807103706145E-022
+ maxval of imaginary S_Nfreq  -1.765807103706145E-022
+ minval of real S_Nfreq   5.916728470685944E-004
+ maxval of real S_Nfreq   5.916728470685944E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          189
+ minval of imaginary S_Nfreq  -4.235814689652505E-022
+ maxval of imaginary S_Nfreq  -4.235814689652505E-022
+ minval of real S_Nfreq   5.523458124598642E-004
+ maxval of real S_Nfreq   5.523458124598642E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          190
+ minval of imaginary S_Nfreq  -1.010369375163584E-021
+ maxval of imaginary S_Nfreq  -1.010369375163584E-021
+ minval of real S_Nfreq   6.373039669629135E-004
+ maxval of real S_Nfreq   6.373039669629135E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          191
+ minval of imaginary S_Nfreq  -2.535857429149734E-022
+ maxval of imaginary S_Nfreq  -2.535857429149734E-022
+ minval of real S_Nfreq   6.521919550833064E-004
+ maxval of real S_Nfreq   6.521919550833064E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          192
+ minval of imaginary S_Nfreq   6.030852419184151E-022
+ maxval of imaginary S_Nfreq   6.030852419184151E-022
+ minval of real S_Nfreq   6.330106884372712E-004
+ maxval of real S_Nfreq   6.330106884372712E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          193
+ minval of imaginary S_Nfreq  -5.876267421674998E-022
+ maxval of imaginary S_Nfreq  -5.876267421674998E-022
+ minval of real S_Nfreq   7.248153146701471E-004
+ maxval of real S_Nfreq   7.248153146701471E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          194
+ minval of imaginary S_Nfreq  -3.178569689282292E-022
+ maxval of imaginary S_Nfreq  -3.178569689282292E-022
+ minval of real S_Nfreq   8.691136080992025E-004
+ maxval of real S_Nfreq   8.691136080992025E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          195
+ minval of imaginary S_Nfreq  -8.625555547104143E-023
+ maxval of imaginary S_Nfreq  -8.625555547104143E-023
+ minval of real S_Nfreq   8.216159832439682E-004
+ maxval of real S_Nfreq   8.216159832439682E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          196
+ minval of imaginary S_Nfreq  -4.996906343263468E-023
+ maxval of imaginary S_Nfreq  -4.996906343263468E-023
+ minval of real S_Nfreq   8.314082623615219E-004
+ maxval of real S_Nfreq   8.314082623615219E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          197
+ minval of imaginary S_Nfreq  -1.396173785145067E-022
+ maxval of imaginary S_Nfreq  -1.396173785145067E-022
+ minval of real S_Nfreq   8.800043880221520E-004
+ maxval of real S_Nfreq   8.800043880221520E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          198
+ minval of imaginary S_Nfreq   1.133707261289168E-021
+ maxval of imaginary S_Nfreq   1.133707261289168E-021
+ minval of real S_Nfreq   9.610139769815388E-004
+ maxval of real S_Nfreq   9.610139769815388E-004
+ Shape of S_Nfreq            1           1
+ In Nfreq          199
+ minval of imaginary S_Nfreq  -1.227823587732900E-022
+ maxval of imaginary S_Nfreq  -1.227823587732900E-022
+ minval of real S_Nfreq   1.014822816092417E-003
+ maxval of real S_Nfreq   1.014822816092417E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          200
+ minval of imaginary S_Nfreq  -3.248061565545478E-022
+ maxval of imaginary S_Nfreq  -3.248061565545478E-022
+ minval of real S_Nfreq   1.100283417696467E-003
+ maxval of real S_Nfreq   1.100283417696467E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          201
+ minval of imaginary S_Nfreq   2.648800142655046E-022
+ maxval of imaginary S_Nfreq   2.648800142655046E-022
+ minval of real S_Nfreq   1.131724963954152E-003
+ maxval of real S_Nfreq   1.131724963954152E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          202
+ minval of imaginary S_Nfreq   1.212384503311825E-022
+ maxval of imaginary S_Nfreq   1.212384503311825E-022
+ minval of real S_Nfreq   1.185573632357765E-003
+ maxval of real S_Nfreq   1.185573632357765E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          203
+ minval of imaginary S_Nfreq   4.337088551337850E-023
+ maxval of imaginary S_Nfreq   4.337088551337850E-023
+ minval of real S_Nfreq   1.374768868935654E-003
+ maxval of real S_Nfreq   1.374768868935654E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          204
+ minval of imaginary S_Nfreq  -6.050256203324494E-023
+ maxval of imaginary S_Nfreq  -6.050256203324494E-023
+ minval of real S_Nfreq   1.319227075481833E-003
+ maxval of real S_Nfreq   1.319227075481833E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          205
+ minval of imaginary S_Nfreq   8.107349854850715E-022
+ maxval of imaginary S_Nfreq   8.107349854850715E-022
+ minval of real S_Nfreq   1.317997277541709E-003
+ maxval of real S_Nfreq   1.317997277541709E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          206
+ minval of imaginary S_Nfreq  -1.054192008220086E-021
+ maxval of imaginary S_Nfreq  -1.054192008220086E-021
+ minval of real S_Nfreq   1.290879383321039E-003
+ maxval of real S_Nfreq   1.290879383321039E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          207
+ minval of imaginary S_Nfreq  -8.536759747458644E-022
+ maxval of imaginary S_Nfreq  -8.536759747458644E-022
+ minval of real S_Nfreq   1.452197997662620E-003
+ maxval of real S_Nfreq   1.452197997662620E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          208
+ minval of imaginary S_Nfreq  -3.362139228535986E-022
+ maxval of imaginary S_Nfreq  -3.362139228535986E-022
+ minval of real S_Nfreq   1.405136162601053E-003
+ maxval of real S_Nfreq   1.405136162601053E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          209
+ minval of imaginary S_Nfreq  -2.540158576059989E-022
+ maxval of imaginary S_Nfreq  -2.540158576059989E-022
+ minval of real S_Nfreq   1.434939180735832E-003
+ maxval of real S_Nfreq   1.434939180735832E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          210
+ minval of imaginary S_Nfreq  -8.709518341147687E-022
+ maxval of imaginary S_Nfreq  -8.709518341147687E-022
+ minval of real S_Nfreq   1.332881538671140E-003
+ maxval of real S_Nfreq   1.332881538671140E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          211
+ minval of imaginary S_Nfreq  -5.621143024606067E-022
+ maxval of imaginary S_Nfreq  -5.621143024606067E-022
+ minval of real S_Nfreq   1.496446571103006E-003
+ maxval of real S_Nfreq   1.496446571103006E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          212
+ minval of imaginary S_Nfreq  -7.325864959426167E-022
+ maxval of imaginary S_Nfreq  -7.325864959426167E-022
+ minval of real S_Nfreq   1.745028220577210E-003
+ maxval of real S_Nfreq   1.745028220577210E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          213
+ minval of imaginary S_Nfreq   8.153253859146118E-022
+ maxval of imaginary S_Nfreq   8.153253859146118E-022
+ minval of real S_Nfreq   1.457748633588385E-003
+ maxval of real S_Nfreq   1.457748633588385E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          214
+ minval of imaginary S_Nfreq   1.279225856834547E-021
+ maxval of imaginary S_Nfreq   1.279225856834547E-021
+ minval of real S_Nfreq   1.456221826726167E-003
+ maxval of real S_Nfreq   1.456221826726167E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          215
+ minval of imaginary S_Nfreq   6.702808729439169E-022
+ maxval of imaginary S_Nfreq   6.702808729439169E-022
+ minval of real S_Nfreq   1.671439480983606E-003
+ maxval of real S_Nfreq   1.671439480983606E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          216
+ minval of imaginary S_Nfreq  -1.090467290630900E-021
+ maxval of imaginary S_Nfreq  -1.090467290630900E-021
+ minval of real S_Nfreq   1.692081220784106E-003
+ maxval of real S_Nfreq   1.692081220784106E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          217
+ minval of imaginary S_Nfreq  -7.802282547217460E-022
+ maxval of imaginary S_Nfreq  -7.802282547217460E-022
+ minval of real S_Nfreq   1.764016292282058E-003
+ maxval of real S_Nfreq   1.764016292282058E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          218
+ minval of imaginary S_Nfreq   4.479701624678903E-024
+ maxval of imaginary S_Nfreq   4.479701624678903E-024
+ minval of real S_Nfreq   1.868473822140496E-003
+ maxval of real S_Nfreq   1.868473822140496E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          219
+ minval of imaginary S_Nfreq  -1.480578643638302E-021
+ maxval of imaginary S_Nfreq  -1.480578643638302E-021
+ minval of real S_Nfreq   1.892355873401164E-003
+ maxval of real S_Nfreq   1.892355873401164E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          220
+ minval of imaginary S_Nfreq   4.210986379892727E-022
+ maxval of imaginary S_Nfreq   4.210986379892727E-022
+ minval of real S_Nfreq   2.071176152203859E-003
+ maxval of real S_Nfreq   2.071176152203859E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          221
+ minval of imaginary S_Nfreq  -1.255207586601117E-021
+ maxval of imaginary S_Nfreq  -1.255207586601117E-021
+ minval of real S_Nfreq   2.184911815788673E-003
+ maxval of real S_Nfreq   2.184911815788673E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          222
+ minval of imaginary S_Nfreq   1.216727013708109E-021
+ maxval of imaginary S_Nfreq   1.216727013708109E-021
+ minval of real S_Nfreq   2.262921893817793E-003
+ maxval of real S_Nfreq   2.262921893817793E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          223
+ minval of imaginary S_Nfreq  -1.022137176738218E-021
+ maxval of imaginary S_Nfreq  -1.022137176738218E-021
+ minval of real S_Nfreq   2.397693505976814E-003
+ maxval of real S_Nfreq   2.397693505976814E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          224
+ minval of imaginary S_Nfreq   1.973919355574884E-021
+ maxval of imaginary S_Nfreq   1.973919355574884E-021
+ minval of real S_Nfreq   2.620545176997413E-003
+ maxval of real S_Nfreq   2.620545176997413E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          225
+ minval of imaginary S_Nfreq   1.565233636921061E-021
+ maxval of imaginary S_Nfreq   1.565233636921061E-021
+ minval of real S_Nfreq   2.820679842307933E-003
+ maxval of real S_Nfreq   2.820679842307933E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          226
+ minval of imaginary S_Nfreq   1.154909295957895E-021
+ maxval of imaginary S_Nfreq   1.154909295957895E-021
+ minval of real S_Nfreq   2.687664378378457E-003
+ maxval of real S_Nfreq   2.687664378378457E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          227
+ minval of imaginary S_Nfreq  -8.592357501510497E-022
+ maxval of imaginary S_Nfreq  -8.592357501510497E-022
+ minval of real S_Nfreq   2.520473511227431E-003
+ maxval of real S_Nfreq   2.520473511227431E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          228
+ minval of imaginary S_Nfreq  -1.186930951383912E-021
+ maxval of imaginary S_Nfreq  -1.186930951383912E-021
+ minval of real S_Nfreq   2.506061153957090E-003
+ maxval of real S_Nfreq   2.506061153957090E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          229
+ minval of imaginary S_Nfreq  -1.925933232479249E-021
+ maxval of imaginary S_Nfreq  -1.925933232479249E-021
+ minval of real S_Nfreq   2.587301403018004E-003
+ maxval of real S_Nfreq   2.587301403018004E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          230
+ minval of imaginary S_Nfreq   9.608237385475314E-023
+ maxval of imaginary S_Nfreq   9.608237385475314E-023
+ minval of real S_Nfreq   2.634821169163372E-003
+ maxval of real S_Nfreq   2.634821169163372E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          231
+ minval of imaginary S_Nfreq  -1.620206395379372E-021
+ maxval of imaginary S_Nfreq  -1.620206395379372E-021
+ minval of real S_Nfreq   3.134500967007223E-003
+ maxval of real S_Nfreq   3.134500967007223E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          232
+ minval of imaginary S_Nfreq   6.982230725910493E-022
+ maxval of imaginary S_Nfreq   6.982230725910493E-022
+ minval of real S_Nfreq   3.081683202129772E-003
+ maxval of real S_Nfreq   3.081683202129772E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          233
+ minval of imaginary S_Nfreq  -1.126421486539281E-021
+ maxval of imaginary S_Nfreq  -1.126421486539281E-021
+ minval of real S_Nfreq   2.994611983377657E-003
+ maxval of real S_Nfreq   2.994611983377657E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          234
+ minval of imaginary S_Nfreq  -8.508970288025934E-022
+ maxval of imaginary S_Nfreq  -8.508970288025934E-022
+ minval of real S_Nfreq   2.916273672621471E-003
+ maxval of real S_Nfreq   2.916273672621471E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          235
+ minval of imaginary S_Nfreq   3.366703549698125E-021
+ maxval of imaginary S_Nfreq   3.366703549698125E-021
+ minval of real S_Nfreq   3.337823191283068E-003
+ maxval of real S_Nfreq   3.337823191283068E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          236
+ minval of imaginary S_Nfreq  -6.485293092811954E-022
+ maxval of imaginary S_Nfreq  -6.485293092811954E-022
+ minval of real S_Nfreq   3.453156938271452E-003
+ maxval of real S_Nfreq   3.453156938271452E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          237
+ minval of imaginary S_Nfreq  -5.218723234997670E-022
+ maxval of imaginary S_Nfreq  -5.218723234997670E-022
+ minval of real S_Nfreq   3.839840617669771E-003
+ maxval of real S_Nfreq   3.839840617669771E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          238
+ minval of imaginary S_Nfreq  -3.266210197474300E-021
+ maxval of imaginary S_Nfreq  -3.266210197474300E-021
+ minval of real S_Nfreq   4.368261802826070E-003
+ maxval of real S_Nfreq   4.368261802826070E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          239
+ minval of imaginary S_Nfreq   2.808791910821969E-021
+ maxval of imaginary S_Nfreq   2.808791910821969E-021
+ minval of real S_Nfreq   5.187253629015218E-003
+ maxval of real S_Nfreq   5.187253629015218E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          240
+ minval of imaginary S_Nfreq  -4.284770851789058E-021
+ maxval of imaginary S_Nfreq  -4.284770851789058E-021
+ minval of real S_Nfreq   6.374833508776239E-003
+ maxval of real S_Nfreq   6.374833508776239E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          241
+ minval of imaginary S_Nfreq  -5.507266820830543E-021
+ maxval of imaginary S_Nfreq  -5.507266820830543E-021
+ minval of real S_Nfreq   5.828637117893623E-003
+ maxval of real S_Nfreq   5.828637117893623E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          242
+ minval of imaginary S_Nfreq   8.485098082235383E-021
+ maxval of imaginary S_Nfreq   8.485098082235383E-021
+ minval of real S_Nfreq   6.755046846026970E-003
+ maxval of real S_Nfreq   6.755046846026970E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          243
+ minval of imaginary S_Nfreq   6.345640069505397E-022
+ maxval of imaginary S_Nfreq   6.345640069505397E-022
+ minval of real S_Nfreq   7.859102747065699E-003
+ maxval of real S_Nfreq   7.859102747065699E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          244
+ minval of imaginary S_Nfreq  -5.166520542629262E-021
+ maxval of imaginary S_Nfreq  -5.166520542629262E-021
+ minval of real S_Nfreq   9.081202924304510E-003
+ maxval of real S_Nfreq   9.081202924304510E-003
+ Shape of S_Nfreq            1           1
+ In Nfreq          245
+ minval of imaginary S_Nfreq   6.483961650999275E-021
+ maxval of imaginary S_Nfreq   6.483961650999275E-021
+ minval of real S_Nfreq   1.434018348150479E-002
+ maxval of real S_Nfreq   1.434018348150479E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          246
+ minval of imaginary S_Nfreq  -2.357994173119927E-021
+ maxval of imaginary S_Nfreq  -2.357994173119927E-021
+ minval of real S_Nfreq   1.399866956537661E-002
+ maxval of real S_Nfreq   1.399866956537661E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          247
+ minval of imaginary S_Nfreq  -6.386572757450672E-021
+ maxval of imaginary S_Nfreq  -6.386572757450672E-021
+ minval of real S_Nfreq   1.362573769648721E-002
+ maxval of real S_Nfreq   1.362573769648721E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          248
+ minval of imaginary S_Nfreq   3.488481950858159E-021
+ maxval of imaginary S_Nfreq   3.488481950858159E-021
+ minval of real S_Nfreq   2.262302307456237E-002
+ maxval of real S_Nfreq   2.262302307456237E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          249
+ minval of imaginary S_Nfreq   5.945312566289833E-022
+ maxval of imaginary S_Nfreq   5.945312566289833E-022
+ minval of real S_Nfreq   2.458295806467150E-002
+ maxval of real S_Nfreq   2.458295806467150E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          250
+ minval of imaginary S_Nfreq   7.398929413421769E-022
+ maxval of imaginary S_Nfreq   7.398929413421769E-022
+ minval of real S_Nfreq   2.470992969695389E-002
+ maxval of real S_Nfreq   2.470992969695389E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          251
+ minval of imaginary S_Nfreq  -2.008900217444997E-020
+ maxval of imaginary S_Nfreq  -2.008900217444997E-020
+ minval of real S_Nfreq   3.178132518177283E-002
+ maxval of real S_Nfreq   3.178132518177283E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          252
+ minval of imaginary S_Nfreq   2.476911518105025E-020
+ maxval of imaginary S_Nfreq   2.476911518105025E-020
+ minval of real S_Nfreq   3.559340238838146E-002
+ maxval of real S_Nfreq   3.559340238838146E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          253
+ minval of imaginary S_Nfreq  -1.293204507475174E-019
+ maxval of imaginary S_Nfreq  -1.293204507475174E-019
+ minval of real S_Nfreq   0.176838803182796     
+ maxval of real S_Nfreq   0.176838803182796     
+ Shape of S_Nfreq            1           1
+ In Nfreq          254
+ minval of imaginary S_Nfreq   2.711316364484143E-019
+ maxval of imaginary S_Nfreq   2.711316364484143E-019
+ minval of real S_Nfreq   0.257830431859006     
+ maxval of real S_Nfreq   0.257830431859006     
+ Shape of S_Nfreq            1           1
+ In Nfreq          255
+ minval of imaginary S_Nfreq  -2.644192412576277E-020
+ maxval of imaginary S_Nfreq  -2.644192412576277E-020
+ minval of real S_Nfreq   6.916807626887461E-002
+ maxval of real S_Nfreq   6.916807626887461E-002
+ Shape of S_Nfreq            1           1
+ In Nfreq          256
+ minval of imaginary S_Nfreq  -1.229547963278364E-020
+ maxval of imaginary S_Nfreq  -1.229547963278364E-020
+ minval of real S_Nfreq   2.496186301435109E-002
+ maxval of real S_Nfreq   2.496186301435109E-002
+ Shape of S_Nfreq            1           1
+ Writing out the eigenvalues to text files
+      191488           1         256
+ Sampling parameters            4          50
+ Written out the eigenvalues to text files
+ Writing out the eigenmodes to text files
